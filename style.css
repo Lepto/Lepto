@@ -118,6 +118,7 @@ table {
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
   filter: invert(100);
+}
 
 
 @media only screen and (max-width: 991px) {
